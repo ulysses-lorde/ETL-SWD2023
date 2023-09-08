@@ -1,0 +1,3 @@
+# Pipeline ETL para Consumir uma API em Java e Gerar Mensagens com ChatGPT-4
+
+Este projeto descreve o desenvolvimento de um pipeline ETL (Extração, Transformação e Carregamento) em Java para consumir uma API externa e gerar mensagens usando o ChatGPT-4. O objetivo é extrair dados de uma API, transformá-los em mensagens processadas pelo ChatGPT-4 e, em seguida, retornar essas mensagens na estrutura JSON para o usuário.
